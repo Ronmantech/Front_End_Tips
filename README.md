@@ -1,4 +1,4 @@
-# Small reference guide for Front End Code
+# Reference Guide for Front End Developers
 
 ## Basic HTML Tags
 
