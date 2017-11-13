@@ -30,6 +30,6 @@ main div
 
 main.multiple-boxes-center
 {
-  display: flex;
+  display: flex; /* flex boxes */
   justify-content: center;
 }
