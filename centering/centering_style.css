@@ -20,3 +20,10 @@ nav
   /* centering the text horizontally */
   text-align: center;
 }
+
+div.box-centering
+{
+  margin: 0 auto;
+  background-color: red;
+  color: cyan;
+}
