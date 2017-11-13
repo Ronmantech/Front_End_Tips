@@ -13,8 +13,23 @@ nav
 div.box-centering
 {
   text-align: center; /* centering text within box */
-  width: 200px;
+  vertical-align: middle;
+  width: 220px;
   margin: 0 auto; /* centering the box */
   background-color: red;
   color: cyan;
+}
+
+main div
+{
+  background: green;
+  color: yellow; /* color of text */
+  padding: 17px; /* space between the text & border of box */
+  margin: 7px; /* space between the boxes */
+}
+
+main.multiple-boxes-center
+{
+  display: flex;
+  justify-content: center;
 }
