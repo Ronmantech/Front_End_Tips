@@ -5,11 +5,6 @@ html
   font-size: 12px;
 }
 
-div.top-padding
-{
-  height:15em;
-}
-
 body
 {
   font-size: 2em;
@@ -23,7 +18,9 @@ nav
 
 div.box-centering
 {
-  margin: 0 auto;
+  text-align: center; /* centering text within box */
+  width: 200px;
+  margin: 0 auto; /* centering the box */
   background-color: red;
   color: cyan;
 }
